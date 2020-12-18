@@ -1,8 +1,8 @@
 {
   "name": "Earn Twitch Points",
-  "version": "1.0",
+  "version": "1.0.2",
   "description": "Twitch live points auto click",
-  "permissions": ["tabs", "https://*.twitch.tv/*", "activeTab"],
+  "permissions": [],
   "content_scripts": [
     {
       "matches": ["https://*.twitch.tv/*"],
