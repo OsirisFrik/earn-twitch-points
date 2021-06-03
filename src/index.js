@@ -4,7 +4,7 @@ function earnPoints() {
   /**
    * @type { HTMLButtonElement }
    */
-  const btn = document.querySelector('button.tw-button.tw-button--success')
+  const btn = document.querySelector('button.ScCoreButtonSuccess-sc-1qn4ixc-5')
 
   if (btn) btn.click()
   if (btn && localStorage.getItem('log-earn')) console.log('clicked', (new Date()).toString())

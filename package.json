@@ -1,6 +1,6 @@
 {
   "name": "twitch-points",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "twitch live points auto click",
   "main": "src/index.js",
   "author": "OsirisFrik",
