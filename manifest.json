@@ -1,6 +1,6 @@
 {
   "name": "Earn Twitch Points",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Twitch live points auto click",
   "permissions": [],
   "content_scripts": [
